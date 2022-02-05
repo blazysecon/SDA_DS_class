@@ -31,7 +31,7 @@ git checkout main # go back to main branch
 
 ## Visual Studio Code
 
-For working python scripts
+For working with python scripts
 
 ## Jupyter Lab / Jupyter Notebook
 
