@@ -71,3 +71,13 @@ For working with notebooks
 - Implement WMAPE in python and test how it is similar to MAPE for predicting house prices in Seattle.
 - Form 2-3 person groups
 - Identify interesting question and find required data to try to solve it
+
+## How to approach ML problem:
+ - Articulate your problem.
+ - Start simple.
+ - Identify Your Data Sources.
+ - Design your data for the model.
+ - Determine where data comes from.
+ - Determine easily obtained inputs.
+ - Ability to Learn.
+ - Think About Potential Bias.
