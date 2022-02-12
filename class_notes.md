@@ -29,6 +29,23 @@ git stash # if conflict, your changes will be lost
 git checkout main # go back to main branch
 ```
 
+### Conda
+
+```
+conda create -y --name ds39 pip python=3.9
+conda activate ds39
+conda install black pandas ipython statsmodels scipy \
+tqdm seaborn scikit-learn --quiet --yes &&
+conda install pandas-profiling glmnet shap jupyterlab \
+eli5 -c conda-forge --quiet --yes &&
+# also need to install nodejs and graphviz as (Mac/Windows/Linux)
+# executables on your specific system
+pip install pdpbox graphviz &&
+jupyter labextension install @jupyter-widgets/jupyterlab-manager &&
+python -m ipykernel install --user --name ds39 \
+    --display-name "Python (ds39)"
+```
+
 ## Visual Studio Code
 
 For working with python scripts
