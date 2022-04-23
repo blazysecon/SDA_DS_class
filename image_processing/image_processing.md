@@ -4,9 +4,8 @@
 
 ## Create a conda environment for image processing
 
-# conda env remove -n cv2
-
 ```
+# conda env remove -n cv2
 conda create -y --name cv2 pip python=3.8
 conda activate cv2
 conda install pandas numpy matplotlib -c conda-forge --quiet --yes
