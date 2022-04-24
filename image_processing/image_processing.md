@@ -48,3 +48,20 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
  - Convert images to thumbnail size (e.g. 8x8 = 64pixels) and use pixels as features
  - Use binned histogram values as features to determine overall picture callers
  - Use gray_scale to measure image brightness (e.g. binned histogram on gray scale image)
+ 
+ ## Fastai
+ 
+ Video course, a book and other resources for Deep Learning
+ 
+ A user-friendly python package to use with Pytorch
+ 
+ https://www.fast.ai/
+ 
+ ## Homework task
+ 
+ 1. Create a dataset of images in two distinct classes in separate folders, at least 100 images each. Use specific tools, or python code examples here:  https://course.fast.ai/images
+ 2. Create image features dataset for these images
+ 3. Train random forest binary classification algorithm
+ 4. Report accuracy, describe images, which are incorrectly predicted
+ 5. Do not forget to have train and validation sample splits
+ 
