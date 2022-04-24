@@ -25,3 +25,8 @@ conda install -c fastai nbdev fastbook --quiet --yes
 python -m ipykernel install --user --name fastai \
     --display-name "Python (fastai)"
 ```
+
+## TED talk about Imagenet
+
+https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en
+
