@@ -30,3 +30,15 @@ python -m ipykernel install --user --name fastai \
 
 https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en
 
+## Computing resources
+
+You will need a computer with a GPU (like Nvidia GeForce GTX 1080 Ti Graphics Cards or better) to run code in a reasonable amount of time.
+
+Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
+
+## Using google colab
+
+ - Make a **Copy to Drive**
+ - Change **Runtime** to **GPU**
+ - Run first cells, when prompted permit access to Google Drive files **Connect to Google Drive**
+ 
