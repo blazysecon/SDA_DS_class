@@ -42,3 +42,9 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
  - Change **Runtime** to **GPU**
  - Run first cells, when prompted permit access to Google Drive files **Connect to Google Drive**
  
+ 
+ ## Traditional feature extraction ideas
+ 
+ - Convert images to thumbnail size (e.g. 8x8 = 64pixels) and use pixels as features
+ - Use binned histogram values as features to determine overall picture callers
+ - Use gray_scale to measure image brightness (e.g. binned histogram on gray scale image)
