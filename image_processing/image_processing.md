@@ -57,11 +57,20 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
  
  https://www.fast.ai/
  
- ## Homework task
+ ## Homework task (04/24)
  
  1. Create a dataset of images in two distinct classes in separate folders, at least 100 images each. Use specific tools, or python code examples here:  https://course.fast.ai/images
  2. Create image features dataset for these images
  3. Train random forest binary classification algorithm
  4. Report accuracy, describe images, which are incorrectly predicted
  5. Do not forget to have train and validation sample splits
+ 
+ ## Resources:
+ - ML book: https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+ - Github notebook for the book https://github.com/ageron/handson-ml3
+ 
+ ## Kagle
+ - Enable GPU in settings on the right
+ - You can import notebooks via `File > Import Notebook`
+ 
  
