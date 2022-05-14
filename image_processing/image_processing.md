@@ -94,3 +94,7 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
   9. Enjoy your new app
   
   ### Mood detector app: https://huggingface.co/spaces/Giedrius/mood_detector
+  
+  https://huggingface.co/spaces/Giedrius/banana_detector
+  
+  https://gradio.app/image_classification_in_tensorflow/
