@@ -81,4 +81,15 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
   4. Test model performance on validation set using simple CNN with conv and poolling layes (you can experiment with layer sizes)
   5. Test model performance on validation set using simple CNN with conv and poolling layes and added BatchNorm and Dropout (you can experiment with layer sizes)
 
+ ## Put your models in production with Hugging Face
  
+  1. Save your tensorflow model with `model.save('my_model.h5')` 
+  2. Download model file locally
+  3. Install GIT-LFS locally to be able to upload your trained model https://git-lfs.github.com/
+  4. Create account at https://huggingface.co/
+  5. Create a new space
+  6. Use git to download space files
+  7. Add you app files (including the model file) to this new git repository
+  8. Push this git repository to remote server
+  9. Enjoy your new app
+  
