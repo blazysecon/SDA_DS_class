@@ -98,3 +98,12 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
   https://huggingface.co/spaces/Giedrius/banana_detector
   
   https://gradio.app/image_classification_in_tensorflow/
+  
+  ### Fastai resources:
+  
+   - A book with notebooks (you can run the in kaggle or colab: https://github.com/fastai/fastbook
+   - Lecture videos: https://course.fast.ai/
+   - Paperspace alternative: https://console.paperspace.com/
+   
+  
+  
