@@ -93,3 +93,4 @@ Alternatively, Kaggle or Google Colab with GPU runtime enabled is a good choice.
   8. Push this git repository to remote server
   9. Enjoy your new app
   
+  ### Mood detector app: https://huggingface.co/spaces/Giedrius/mood_detector
